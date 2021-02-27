@@ -1,0 +1,11 @@
+apiVersion: v2
+name: ctms-api
+description: A Helm chart for ctms-api app
+type: application
+keyword:
+  - ctms
+  - k8s
+  - mozilla
+
+version: 0.1.0
+appVersion: "0.0.1"
