@@ -10,7 +10,7 @@ Current chart version is `0.1.1`
 
 | Repository | Name | Version |
 |------------|------|---------|
-| https://kubernetes-charts.storage.googleapis.com | mysql | 1.6.4 |
+| https://charts.bitnami.com/bitnami | mysql | 8.4.2 |
 
 ## Chart Values
 
